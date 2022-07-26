@@ -1,6 +1,6 @@
 .drive {
   /*Esto permite colocar los textos en columnas o filas segun los fr*/
-  max-width: 1040;
+  max-width: 1040px;
   margin: auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
