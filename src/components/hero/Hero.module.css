@@ -115,6 +115,7 @@ form .search_btn {
   }
 
   .hero .btn {
+    /* Crear el boton */
     display: block;
     background-color: #593cfb;
     color: #fff;
@@ -128,6 +129,7 @@ form .search_btn {
   }
 
   .hero .btn:hover {
+    /* Cudno paso el mouse por el boton */
     background-color: #4733b7;
     transition: background-color 1s;
   }
