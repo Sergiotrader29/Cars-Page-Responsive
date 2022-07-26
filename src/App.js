@@ -1,5 +1,6 @@
 import React from 'react';
-import Hero from './components/navbar/hero/Hero';
+import Find from './components/find/Find';
+import Hero from './components/hero/Hero';
 import Navbar from './components/navbar/Navbar';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Navbar />
       <Hero />
+      <Find />
     </div>
   );
 }
